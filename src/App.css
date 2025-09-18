@@ -6,3 +6,14 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
+.banner {
+  text-align: center
+}
+.bannerImage {
+  width: 1000px;
+  height: auto;
+  align-items: center;
+}
+.projectName {
+  font-size: 70px;
+}
