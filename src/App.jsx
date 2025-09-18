@@ -3,7 +3,58 @@ import Card from "./components/Card"
 function App() {
   return (
     <>
-      <Card img="" name="Name" website=""/>
+      <div className="cardsContainer">
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+        <Card
+          img=""
+          name=""
+          website=""
+        />
+      </div>
     </>
   )
 }
