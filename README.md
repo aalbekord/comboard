@@ -25,10 +25,6 @@ The following **optional** features are implemented:
   - [x] Web app is shown in a mobile format
   - [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
