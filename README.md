@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to a related resources are on each card component
   - [x] All cards have buttons or links in addition to text
-- [x]  The site is responsive for both desktop and mobile formats
+- [x] The site is responsive for both desktop and mobile formats
   - [x] Web app is shown in a mobile format
   - [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
 
@@ -33,11 +33,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/16d1be4c6f534e98a2df07daa9710717">
+      <p>WEB102 - Community Board - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/16d1be4c6f534e98a2df07daa9710717">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/16d1be4c6f534e98a2df07daa9710717-4700169af29fc057-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+Video created with Loom
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -46,7 +53,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The CSS Styling was tough to crack in order to make the cards look nicer
 
 ## License
 
