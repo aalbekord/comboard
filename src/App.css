@@ -10,6 +10,7 @@ body {
   text-align: center
 }
 .bannerImage {
+  max-width: 100%; /* image  will scale down if container is smaller than device width*/
   width: 1000px;
   height: auto;
   align-items: center;
