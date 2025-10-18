@@ -1,8 +1,8 @@
-# Web Development Project 1 - _Community Board_
+# Web Development Project 1 - _Boba Board_
 
 Submitted by: **Amirsina Albekord**
 
-This web app: **Boba Board**
+This web app: **An app that contains the names of numerous popular boba shops alongside a link to access each of their websites**
 
 Time spent: **2.5** hours spent in total
 
